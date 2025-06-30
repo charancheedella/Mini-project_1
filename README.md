@@ -26,8 +26,8 @@ This is a simple UI prototype for a sidebar navigation menu. It includes:
 - Font Awesome for icons
 
 ## 📸 Screenshots
-<img src="screenshots/sidebar-closed.png" width="400"/>
-<img src="screenshots/sidebar-open.png" width="400"/>
+<img src="sidebar-closed.png" width="400"/>
+<img src="sidebar-open.png" width="400"/>
 
 ## 🚫 Note
 This is a **non-functional prototype** – purely front-end and static. No real links or backend integration.
